@@ -16,7 +16,7 @@ function swordInTheStone(worthy){
 
 swordInTheStone(knight)
 
-//HAILT THE KING AND QUEEN!
+//HAIL TEH KING AND QUEEN!
 function trueLove(king, queen){
 	if (queen == "Guinevere" && king == "Arthur"){
 		console.log("On this day, our benevolent rulers " + king + " and " + queen + " shall rule happily ever after!")
