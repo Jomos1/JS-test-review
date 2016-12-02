@@ -1,11 +1,11 @@
 //Jomari Jacinto 11/23/2016 TITLE: Javascript Test Review
 
-var knight = "Arthur"
-var maiden = "Guinevere"
-var monster = "Griffin"
-var weaponChest = ["Mace", "Sorcerer's Stone", "Excalibur"]
-var wizard = "Merlin"
-var power = 45
+var knight = "Arthur";
+var maiden = "Guinevere";
+var monster = "Griffin";
+var weaponChest = ["Mace", "Sorcerer's Stone", "Excalibur"];
+var wizard = "Merlin";
+var power = 45;
 
 function swordInTheStone(worthy){
 	if (worthy == "Arthur"){
@@ -40,3 +40,4 @@ function epicBattle(wizard,enemy,power){
 epicBattle(wizard,monster,power)
 
 //I DO GOOD? []YES []NO
+//WYZAARD
